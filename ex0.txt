@@ -1,0 +1,6 @@
+There are 370,818 interactions.
+- Unique users: 2,000
+- Unique books: 138,633
+- Number of reads: 208,701 (56.3% of all interactions)
+- Number of ratings: 194,243 (52.4%)
+- Number of reviews: 23,720 (6.4%)
